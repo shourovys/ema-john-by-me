@@ -1,0 +1,23 @@
+
+
+.logo img{
+    height: 80px;
+    display: block;
+    margin: auto;
+}
+
+.navbar{
+    line-height: 40px;
+    background-color: black;
+}
+
+.navbar a{
+    margin: 4px 8px;
+    padding: 2px 4px;
+    color: white;
+    text-decoration: none;
+}
+.navbar a :hover{
+    background-color: #fff;
+    color : #000;
+}
