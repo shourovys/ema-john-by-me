@@ -1,0 +1,25 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+.product-img{
+    flex-basis: 20%;
+}
+.product-img img{
+    margin: 5px;
+}
+.product-info{
+    flex-basis: 80%;
+    
+}
+.product-info h4{
+    color: blue;
+}
+.buy-btn{
+    width: 200px;
+    height: 30px;
+    background-color: yellow;
+    border: 1px solid gray;
+    border-radius: 6px;
+    margin: 12px 2px;
+}
