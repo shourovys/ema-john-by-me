@@ -16,10 +16,12 @@
     color: blue;
 }
 .buy-btn{
+    font-size: 1.05rem;
     width: 200px;
     height: 30px;
-    background-color: yellow;
+    background-color: rgb(221, 203, 44);
     border: 1px solid gray;
     border-radius: 6px;
     margin: 12px 2px;
+    cursor: pointer;
 }
